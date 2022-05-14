@@ -1,5 +1,5 @@
 # mopsolverMOPsProject2
-A Breadth First Search algorithm maze solver simulation that uses the ncurses C library to display solutions and information.
+A Breadth First Search algorithm maze solver simulation that displays various maze information.
 
 ## Project Files
 - **MopSolver:** Main driver file that simulates the solving mechanics of a given maze and displays information related to mazes given an entrance at the top left of the maze (0, 0), and with an exit at the bottom right of the maze (N - 1, M - 1).
