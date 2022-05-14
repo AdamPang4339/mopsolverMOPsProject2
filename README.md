@@ -10,7 +10,7 @@ A Breadth First Search algorithm maze solver simulation that uses the ncurses C 
 - Structs.h: Header file to export all main typedef structs being used in mopsolver simulations
 
 ## Command Line Usage
-`Usage:\nmopsolver [-hdsp] [-i INFILE] [-o OUTFILE]`
+`Usage: mopsolver [-hdsp] [-i INFILE] [-o OUTFILE]`
 ```
 Options:
   -h          Print usage and options list to stdout only.    (Default: off)
