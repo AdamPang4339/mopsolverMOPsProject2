@@ -1,0 +1,113 @@
+commit d872f1bef36358f4d49e47ded1550b58627b067c
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 23:53:21 2022 -0400
+
+    Final commit with updated documentation
+
+commit 0eb6865f3207e9762d9af981a23e2a573925bc80
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 23:44:21 2022 -0400
+
+    Fixed last changes to getting neighbors to increase speed
+
+commit 1d59d68c4c7691859133e9fd78468dd371700eb9
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 23:30:52 2022 -0400
+
+    Incorporated no arguments program run
+
+commit c1f2fef65b455f0ba6f1aaa9456d3e8d71ee1f57
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 23:16:51 2022 -0400
+
+    Final testing
+
+commit 69d5a05c5ac81d7a889d7e3eb62287afa4e09dc5
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 23:16:23 2022 -0400
+
+    Completed output file handling
+
+commit 5e8e8e487cebd9ee466024b5f549a084ac614815
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 21:55:22 2022 -0400
+
+    Completed debugging process and BFS solver algorithm
+
+commit 0ade215547c4bc19efb31c6b323275a5fad6339e
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 20:58:06 2022 -0400
+
+    Handled various errors with pointers and structs with new structs.h file
+
+commit c8b6d1bbc202a11422b052173ec638f561fe3f95
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 18:23:04 2022 -0400
+
+    Included getter functions for maze and coordinates structures to fix undefined incomplete struct type error + Continued work on BFS algorithm
+
+commit b3fb6e12f512882becc7be1372708122353ffe5e
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 04:31:27 2022 -0400
+
+    Created coordinates.c and .h files along with solver.c and .h file that work together in the first draft of the BFS algorithm
+
+commit 95f8d512a94013849d146d7da9d699a2a055b9c0
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Fri Apr 15 00:23:21 2022 -0400
+
+    Brought over QueueADT assignment to project files and tailored it to FIFO system for project
+
+commit fff3955e7434bcb41c456328589708cebfdde071
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Apr 14 17:02:53 2022 -0400
+
+    Fixed documentation of functions
+
+commit b4de1f5e698a573a36b7c8a63842862c0bcab9c5
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Apr 14 16:57:19 2022 -0400
+
+    Handled all memory leaks and created destroy_maze() to handle frees
+
+commit 26e48d6e87ecf2b9e91c20cf999686560b44c6bb
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Apr 14 16:10:36 2022 -0400
+
+    Corrected segmentation fault with num_rows and num_cols pointers in maze.c
+
+commit 0f4d84b005286b2b65147245cdbc89c9c439e1d1
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Apr 14 15:32:25 2022 -0400
+
+    Corrected while loop in maze.c to fix infinite loop and completed pretty print function in maze.c
+
+commit 8dc0839ae6b0d27c52889ec89a35ca1dbc998335
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Apr 14 02:00:25 2022 -0400
+
+    Fixed minor pointer dereferencing errors and incorporated debug printf statements in mopsolver.c
+
+commit f3a923fea510bc9a0c13153fbc52dd98d3f518f3
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Apr 14 01:53:48 2022 -0400
+
+    Created maze.h and implemented first draft of maze functions
+
+commit d82b0c9576557903fced1e87732cce1e71283f07
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Tue Apr 12 23:27:49 2022 -0400
+
+    Created makefile and header.mak files for make
+
+commit 7c1ead3819ac8c6c6854961b19101ed99fa0f45f
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Tue Apr 12 23:07:42 2022 -0400
+
+    Created main driver file mopsolver.c and parsed command line arguments
+
+commit 43a9e5bddd9e927c4e88d7bcff53bc5706a91817
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Mon Apr 11 04:23:08 2022 -0400
+
+    Initial commit with given example files
